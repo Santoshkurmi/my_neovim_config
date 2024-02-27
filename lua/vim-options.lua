@@ -6,3 +6,5 @@ vim.cmd('set softtabstop=2')
 vim.cmd('set number')
 vim.cmd('set nowrap')
 vim.g.mapleader = ' '
+vim.o.lineheight = 5
+
